@@ -1,6 +1,10 @@
 # Documentation-Assitant
 
-This project was initially built as a means for me to get the best help for learning Langchain. It is a Chatbot made specificlly to use the langchain documentation as its context using RAG. With this I am able to have a personallized Langchain professionally helping with each project. It's designed to help users navigate through the Langchain documentation and can help you with any errors you face wit langchain. As well it provides direct sources to each of the information it returns to the user allowing you to confirm the information.
+This project was initially built as a means for me to get the best help for learning Langchain. It is a Chatbot made specifically to use the langchain documentation as its context using RAG. With this, I am able to have a personalized Langchain professionally helping with each project. It's designed to help users navigate through the Langchain documentation and can help you with any errors you face wit Langchain. As well it provides direct sources for each of the information it returns to the user allowing you to confirm the information.
+
+## Demo
+<p>Here is a youtube link to the demo: https://youtu.be/Z2x0aGTf-IQ </p>
+<img src="https://github.com/Papakobina/Documentation-Assitant/blob/main/demo_pic_helper.png"/>
 
 ## Technical Explanation
 
